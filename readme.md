@@ -10,6 +10,4 @@ function.php
 header.php
 footer.php
 readme.md
-#� �3�1�w�_�e�x�e�r�c�i�c�e�1�
-�
-�
+
